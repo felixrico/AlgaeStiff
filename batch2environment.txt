@@ -1,0 +1,6 @@
+# batch to environment
+
+conda create --name algae python=3.11
+conda activate algae
+pip install -r requirements.txt
+

@@ -1,0 +1,4 @@
+{
+    "python.defaultInterpreterPath": "/home/felix/anaconda3/envs/algae/bin/python",
+    "python.terminal.activateEnvironment": true
+}
